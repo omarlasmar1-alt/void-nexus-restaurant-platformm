@@ -1,0 +1,16 @@
+export const ADMIN_NAVIGATION = [
+  "Dashboard",
+  "Menu",
+  "Categories",
+  "Reservations",
+  "Orders",
+  "Tables",
+  "Gallery",
+  "Events",
+  "Customers",
+  "Loyalty",
+  "Employees",
+  "Analytics",
+  "Media Library",
+  "Settings",
+];
